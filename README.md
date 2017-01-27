@@ -32,10 +32,13 @@ Here lie notes taken from my transition to the [Atom text editor](http://atom.io
 * **ctrl-cmd-h**    toggle on/off
 
 # [Package: Minimap](https://atom.io/packages/minimap)
-https://atom.io/packages/minimap-bookmarks
-https://atom.io/packages/minimap-cursorline
-https://atom.io/packages/minimap-codeglance
-https://atom.io/packages/minimap-highlight-selected
+
+## Plugins
+
+[Bookmarks](https://atom.io/packages/minimap-bookmarks)
+[Cursorline](https://atom.io/packages/minimap-cursorline)
+[Codeglance](https://atom.io/packages/minimap-codeglance)
+[Highlight-Selected](https://atom.io/packages/minimap-highlight-selected)
 
 # [Package: TODO-Show](https://atom.io/packages/todo-show)
 * **ctrl-shift-T**  toggle on/off
