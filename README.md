@@ -57,3 +57,7 @@ Here lie notes taken from my transition to the [Atom text editor](http://atom.io
 * **ctrl-shift-T**  open terminal in the current file's directory
 
 # [Package: Open-Recent](https://atom.io/packages/open-recent)
+
+# [Package: Open-Terminal-Here](https://atom.io/packages/open-terminal-here)
+* **ctrl-cmd-t**  open terminal here
+* ** alt-cmd-t**  open terminal at root
