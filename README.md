@@ -12,6 +12,7 @@ Here lie notes taken from my transition to the [Atom text editor](http://atom.io
 * **cmd-F**        search
 * **alt-cmd-F**    search and replace
 * **alt-cmd-I**    toggle developer mode
+* **ctrl-alt-cmd-l**  reload atom
 
 # [Package: Multi-cursor](https://atom.io/packages/multi-cursor)
 * **alt-up**       Cursor up
