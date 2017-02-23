@@ -13,6 +13,9 @@ Here lie notes taken from my transition to the [Atom text editor](http://atom.io
 * **alt-cmd-F**    search and replace
 * **alt-cmd-I**    toggle developer mode
 * **ctrl-alt-cmd-l**  reload atom
+* **ctrl-t**          fuzzy finder (files in project)
+* **ctrl-b**          buffer finder (open files i.e. buffers)
+* **ctrl-shift-b**    buffer finder ( files which are new or have been modified since your last Git commit)
 
 # [Package: Multi-cursor](https://atom.io/packages/multi-cursor)
 * **alt-up**       Cursor up
