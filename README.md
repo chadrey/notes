@@ -1,5 +1,7 @@
 Here lie notes taken from my transition to the [Atom text editor](http://atom.io/).  I have been an avid user of UltraEdit for the last 20+ years, another great editor but not free nor completely hackable.
 
+Don't forget about the [Atom docs](https://atom.io/docs), the [Atom flight manual](http://flight-manual.atom.io/), and the [Atom forum](https://discuss.atom.io/).
+
 
 # [Cheatsheet](https://gist.github.com/chrissimpkins/5bf5686bae86b8129bee#atom_cmd_palette)
 * **cmd-shift-P**  command palette
