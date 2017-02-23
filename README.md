@@ -65,4 +65,4 @@ Don't forget about the [Atom docs](https://atom.io/docs), the [Atom flight manua
 
 # [Package: Open-Terminal-Here](https://atom.io/packages/open-terminal-here)
 * **ctrl-cmd-t**  open terminal here
-* ** alt-cmd-t**  open terminal at root
+* **alt-cmd-t**  open terminal at root
