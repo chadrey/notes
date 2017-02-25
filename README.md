@@ -68,4 +68,9 @@ Don't forget about the [Atom docs](https://atom.io/docs), the [Atom flight manua
 * **alt-cmd-t**   open terminal at root
 
 # [Package: Atom-Alignment](https://atom.io/packages/atom-alignment)
-**ctrl-alt-a**    align on =
+* **ctrl-alt-a**    align on =
+
+# [Package: Atom-Overtype-Mode](https://atom.io/packages/atom-overtype-mode)
+* **Insert**      Toggle insert/overwrite
+
+
