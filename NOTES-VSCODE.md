@@ -22,6 +22,13 @@ Don't forget about [the docs](https://code.visualstudio.com/docs) and [the relea
 * **ctl-shift-alt-arrows** Column mode
 * **** 
 
+# [Package: Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
+* **ctl-alt-k** Toggle
+* **ctl-alt-l** Move to next
+* **ctl-alt-j** Move to previous
+* **ctl-alt-c** Clear
+
+
 # [Package: Insert Numbers](https://marketplace.visualstudio.com/items?itemName=Asuka.insertnumbers#:~:text=Insert%20Numbers%20for%20Visual%20Studio%20Code.%20An%20extension,two%20ways%20to%20change%20the%20default%20format%20string.)
 * **ctl-alt-n**    Insert Numbers
 
