@@ -40,8 +40,13 @@ Don't forget about [the docs](https://code.visualstudio.com/docs) and [the relea
 *Uses sprintf type of formatting.  See [this link](https://github.com/alexei/sprintf.js) for more info.*
 
 # [Python Indent](https://marketplace.visualstudio.com/items?itemName=KevinRose.vsc-python-indent&ssr=true)
+No keyboard shortcuts...
+
+# [Python DocString Generator](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring)
+Cursor must be on the line directly below the definition to generate full auto-populated docstring.
+Then press enter after opening docstring with triple quotes (""" or ''')
 
 # Packages to consider
-* AREPL
-* Kite (clock Docs and then copilot for detailed info)
-* autoDocString
+* [AREPL](https://marketplace.visualstudio.com/items?itemName=almenon.arepl#:~:text=AREPL%20automatically%20evaluates%20python%20code%20in%20real-time%20as,is%20availible%20for%20free%20on%20the%20vscode%20marketplace.)
+* [Kite AutoComplete](https://marketplace.visualstudio.com/items?itemName=kiteco.kite)
+  *  (Provides better completion and codehelp)
