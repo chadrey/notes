@@ -20,7 +20,19 @@ Don't forget about [the docs](https://code.visualstudio.com/docs) and [the relea
 # Code Editing
 * **alt-arrow**  Move line up (or down)
 * **ctl-shift-alt-arrows** Column mode
-* **** 
+* **ctl-/**      Toggle comments for selection
+* **ctl-p**      Open search bar for file open (of files in your project)
+* **tab**        Indent selection
+* **shift-tab**  Unindent selection
+* **ctl-n**      New file
+* **f2**         Rename file
+* **ctl-enter**  New line below
+* **ctl-left/right arrow** Move cursor whole words at a time
+
+
+## [Thanks Kyle and WebDevSimplified](https://blog.webdevsimplified.com/2020-08/10-best-keyboard-shortcuts/)
+### Copy/Cut/Paste entire lines
+With no selection, copy/cut/paste will work on the entire line.
 
 # [Package: Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
 * **ctl-alt-k** Toggle
