@@ -28,6 +28,8 @@ Don't forget about [the docs](https://code.visualstudio.com/docs) and [the relea
 * **f2**         Rename file
 * **ctl-enter**  New line below
 * **ctl-left/right arrow** Move cursor whole words at a time
+* **ctl-l**      Select the whole line
+* ****
 
 
 ## [Thanks Kyle and WebDevSimplified](https://blog.webdevsimplified.com/2020-08/10-best-keyboard-shortcuts/)
