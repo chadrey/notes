@@ -15,6 +15,7 @@ Don't forget about [the docs](https://code.visualstudio.com/docs) and [the relea
 * **ctl-`**        Toggle Terminal
 * **ctl-E**        Goto File
 * **ctl-F4**       Close selected window
+* **Ctl-k Ctl-Shift-S*** Save without formatting
 * **** 
 
 # Code Editing
