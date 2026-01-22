@@ -18,18 +18,30 @@ Don't forget about [the docs](https://code.visualstudio.com/docs) and [the relea
 * **Ctl-k Ctl-Shift-S** Save without formatting
 * **** 
 
+# Line Editing
+* **ctrl-L**               Select current line
+* **ctrl-shift-L**         Select all occurrances of word
+* **alt-arrow**            Move line up (or down)
+* **shift-alt-arrow**      Duplicate line above (or below)
+* **ctrl-shift-K**         Delete current line
+* **ctrl-X**               Cut current line (without any text selected)
+* **ctrl-V**               Copy current line (without any text selected)
+* **ctl-enter**            Insert new line below (cursor remains)
+* **ctrl-shift-enter**     Insert new line above (cursor remains)
+* **** 
+
 # Code Editing
-* **alt-arrow**  Move line up (or down)
 * **ctl-shift-alt-arrows** Column mode
-* **ctl-/**      Toggle comments for selection
-* **ctl-p**      Open search bar for file open (of files in your project)
-* **tab**        Indent selection
-* **shift-tab**  Unindent selection
-* **ctl-n**      New file
-* **f2**         Rename file
-* **ctl-enter**  New line below
+* **ctl-/**                Toggle comments for selection
+* **ctl-p**                Open search bar for file open (of files in your project)
+* **tab**                  Indent selection
+* **shift-tab**            Unindent selection
+* **ctl-n**                New file
+* **f2**                   Rename file
 * **ctl-left/right arrow** Move cursor whole words at a time
-* **ctl-l**      Select the whole line
+* **ctl-l**                Select the whole line
+* **shift-alt-f**          Indent appropriately
+* **ctrl-shift-V**         Markdown Preview (built-in)
 * ****
 
 
