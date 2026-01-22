@@ -4,45 +4,45 @@ Don't forget about [the docs](https://code.visualstudio.com/docs) and [the relea
 
 
 # VS Code Application
-* **ctl-A ctl-S**  Keyboard shortcuts
-* **ctl-shift-P**  command palette
-* **ctl-shift-E**  Explorer
-* **ctl-shift-F**  Search
-* **ctl-shift-G**  Source Control
-* **ctl-shift-D**  Run and Debug
-* **ctl-shift-X**  Extensions
-* **ctl-,**        Settings
-* **ctl-`**        Toggle Terminal
-* **ctl-E**        Goto File
-* **ctl-F4**       Close selected window
-* **Ctl-k Ctl-Shift-S** Save without formatting
-* **** 
+*`ctl-A ctl-S` Keyboard shortcuts
+*`ctl-shift-P` command palette
+*`ctl-shift-E` Explorer
+*`ctl-shift-F` Search
+*`ctl-shift-G` Source Control
+*`ctl-shift-D` Run and Debug
+*`ctl-shift-X` Extensions
+*`ctl-,`       Settings
+*`ctl-``       Toggle Terminal
+*`ctl-E`       Goto File
+*`ctl-F4`      Close selected window
+*`Ctl-k Ctl-Shift-S`Save without formatting
+*``
 
 # Line Editing
-* **ctrl-L**               Select current line
-* **ctrl-shift-L**         Select all occurrances of word
-* **alt-arrow**            Move line up (or down)
-* **shift-alt-arrow**      Duplicate line above (or below)
-* **ctrl-shift-K**         Delete current line
-* **ctrl-X**               Cut current line (without any text selected)
-* **ctrl-V**               Copy current line (without any text selected)
-* **ctl-enter**            Insert new line below (cursor remains)
-* **ctrl-shift-enter**     Insert new line above (cursor remains)
-* **** 
+*`ctrl-L`              Select current line
+*`ctrl-shift-L`        Select all occurrances of word
+*`alt-arrow`           Move line up (or down)
+*`shift-alt-arrow`     Duplicate line above (or below)
+*`ctrl-shift-K`        Delete current line
+*`ctrl-X`              Cut current line (without any text selected)
+*`ctrl-V`              Copy current line (without any text selected)
+*`ctl-enter`           Insert new line below (cursor remains)
+*`ctrl-shift-enter`    Insert new line above (cursor remains)
+*``
 
 # Code Editing
-* **ctl-shift-alt-arrows** Column mode
-* **ctl-/**                Toggle comments for selection
-* **ctl-p**                Open search bar for file open (of files in your project)
-* **tab**                  Indent selection
-* **shift-tab**            Unindent selection
-* **ctl-n**                New file
-* **f2**                   Rename file
-* **ctl-left/right arrow** Move cursor whole words at a time
-* **ctl-l**                Select the whole line
-* **shift-alt-f**          Indent appropriately
-* **ctrl-shift-V**         Markdown Preview (built-in)
-* ****
+*`ctl-shift-alt-arrows`Column mode
+*`ctl-/`               Toggle comments for selection
+*`ctl-p`               Open search bar for file open (of files in your project)
+*`tab`                 Indent selection
+*`shift-tab`           Unindent selection
+*`ctl-n`               New file
+*`f2`                  Rename file
+*`ctl-left/right arrow`Move cursor whole words at a time
+*`ctl-l`               Select the whole line
+*`shift-alt-f`         Indent appropriately
+*`ctrl-shift-V`        Markdown Preview (built-in)
+*`**
 
 
 ## [Thanks Kyle and WebDevSimplified](https://blog.webdevsimplified.com/2020-08/10-best-keyboard-shortcuts/)
@@ -50,19 +50,19 @@ Don't forget about [the docs](https://code.visualstudio.com/docs) and [the relea
 With no selection, copy/cut/paste will work on the entire line.
 
 # [Package: Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
-* **ctl-alt-k** Toggle
-* **ctl-alt-l** Move to next
-* **ctl-alt-j** Move to previous
-* **ctl-alt-c** Clear
+*`ctl-alt-k`Toggle
+*`ctl-alt-l`Move to next
+*`ctl-alt-j`Move to previous
+*`ctl-alt-c`Clear
 
 
 # [Package: Insert Numbers](https://marketplace.visualstudio.com/items?itemName=Asuka.insertnumbers#:~:text=Insert%20Numbers%20for%20Visual%20Studio%20Code.%20An%20extension,two%20ways%20to%20change%20the%20default%20format%20string.)
-* **ctl-alt-n**    Insert Numbers
+*`ctl-alt-n`   Insert Numbers
 
-* **%3d**          Insert with leading spaces (3 wide)
-* **%03d**         Insert with leading zeros (3 wide)
-* **%03X**         Insert (hex) with leading zeros
-* **%03:0:4**      Insert starting at 0 and stepping by 4
+*`%3d`         Insert with leading spaces (3 wide)
+*`%03d`        Insert with leading zeros (3 wide)
+*`%03X`        Insert (hex) with leading zeros
+*`%03:0:4`     Insert starting at 0 and stepping by 4
 
 *Uses sprintf type of formatting.  See [this link](https://github.com/alexei/sprintf.js) for more info.*
 
